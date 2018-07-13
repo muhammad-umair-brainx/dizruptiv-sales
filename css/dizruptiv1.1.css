@@ -7,6 +7,9 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.plus-img{
+    width: 50px;
+}
 
 @media only screen and (max-width: 600px) {
     .red-heading {
@@ -14,6 +17,10 @@
     }
     .contact-heading{
         padding-top: 25% !important;
+    }
+    .mobile-widthNinety{
+        width: 90% !important;
+        margin: auto;
     }
 
     .signup-btn {
