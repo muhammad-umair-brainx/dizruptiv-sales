@@ -22,6 +22,81 @@
     .like-minded {
         margin: 0px !important;
     }
+
+    .what-svg svg {
+        width: 40% !important;
+    }
+
+    .commission-video {
+        width: 90% !important;
+    }
+
+    .what, .lead-challenge {
+        background-color: #ebebeb;
+        padding-top: 8%;
+        padding-bottom: 1px;
+    }
+
+    .black-heading {
+
+        font-size: 35px !important;
+        line-height: 1.14 !important;
+        letter-spacing: 1.8 !important;
+    }
+
+    .iDizruptiv, .like-minded {
+        border-radius: 0px !important;
+    }
+
+    .mobile-padding-zero {
+        padding: 0px !important;
+    }
+
+    .like-minded-content, .iDizruptiv-content {
+        width: 90%;
+        margin: auto;
+    }
+
+    .mobile-text-center {
+        text-align: center !important;
+    }
+
+    .full-width-mobile {
+        width: 100% !important;
+        margin: auto;
+    }
+
+    .mobile-widthEighty {
+        width: 80% !important;
+        margin: auto;
+    }
+
+    .message {
+        padding-top: 15% !important;
+    }
+
+    .mobile-paddingLR-zero {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .mobile-black-heading{
+        color: #000000 !important;
+    }
+
+    .terms{
+        order: 1 !important;
+        display: block !important;
+        text-align: center !important;
+        float: none !important;
+    }
+    .copyright{
+        padding-top: 5px !important;
+        display: block !important;
+        order: 2 !important;
+        text-align: center !important;
+    }
+
 }
 
 .dizButton {
@@ -323,7 +398,6 @@
 }
 
 .email-here {
-    height: 600px;
     border-radius: 5px;
     background-color: #ffffff;
 }
@@ -345,9 +419,11 @@
     opacity: 0.4;
     display: inline-block;
     float: left;
+    order: 1;
 }
 
 .terms {
+    order: 2;
     font-family: Montserrat;
     font-size: 11px;
     font-weight: 300;
@@ -359,4 +435,9 @@
     color: #ffffff;
     display: inline-block;
     float: right;
+    width: auto !important;
+}
+
+.what-svg svg {
+    width: 80%;
 }
