@@ -12,6 +12,9 @@
     .red-heading {
         font-size: 35px !important;
     }
+    .contact-heading{
+        padding-top: 25% !important;
+    }
 
     .signup-btn {
         font-size: 16px !important;
@@ -116,6 +119,9 @@
         line-height: normal !important;
     }
 
+    .attention-p{
+        padding-top: 20px;
+    }
 }
 
 .dizButton {
@@ -460,4 +466,23 @@
 
 .what-svg svg {
     width: 80%;
+}
+
+.red-link{
+    font-weight: bold;
+    color: #fe0000;
+    text-decoration: none;
+}
+
+.red-link:hover{
+    text-decoration: none;
+    color: #fe0000;
+}
+
+.no-dec{
+    text-decoration: none;
+}
+
+.no-dec:hover{
+    text-decoration: none;
 }
