@@ -80,21 +80,31 @@
         padding-right: 0px !important;
     }
 
-    .mobile-black-heading{
+    .mobile-black-heading {
         color: #000000 !important;
     }
 
-    .terms{
+    .terms {
         order: 1 !important;
         display: block !important;
         text-align: center !important;
         float: none !important;
     }
-    .copyright{
+
+    .copyright {
         padding-top: 5px !important;
         display: block !important;
         order: 2 !important;
         text-align: center !important;
+    }
+
+    .plus-svg svg {
+        width: 60px;
+        fill: white !important;
+    }
+
+    .email-here {
+        padding: 10px !important;
     }
 
 }
