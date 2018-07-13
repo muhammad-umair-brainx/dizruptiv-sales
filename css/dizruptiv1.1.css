@@ -2,6 +2,11 @@
 .commission, .what-more, .signup, .lead-prize, .launch, .evergreen, .footer {
     background-color: #2a2a2a;
 }
+.light-bg{
+    background-image: url("../img/header/lights .png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 @media only screen and (max-width: 600px) {
     .red-heading {
