@@ -487,6 +487,7 @@
 }
 
 .no-dec{
+    color: unset;
     text-decoration: none;
 }
 
