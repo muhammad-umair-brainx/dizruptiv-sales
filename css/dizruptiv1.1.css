@@ -28,7 +28,7 @@
     }
 
     .commission-video {
-        width: 90% !important;
+        width: 100% !important;
     }
 
     .what, .lead-challenge {
@@ -105,6 +105,10 @@
 
     .email-here {
         padding: 10px !important;
+    }
+
+    .attention-p{
+        line-height: normal !important;
     }
 
 }
