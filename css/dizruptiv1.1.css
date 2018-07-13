@@ -258,11 +258,11 @@
 }
 
 .message-body {
-    padding-top: 7%;
+    padding-top: 5%;
 }
 
 .message {
-    padding-top: 7%;
+    padding-top: 5%;
 }
 
 .dot {
@@ -310,7 +310,7 @@
 }
 
 .highlights-box, .prize-list-box {
-    margin-top: 7%;
+    margin-top: 5%;
     background-color: #3b3b3b;
 }
 
@@ -389,7 +389,7 @@
 }
 
 .lead-prize {
-    padding-bottom: 12%;
+    padding-bottom: 7%;
 }
 
 .pre-launch {
@@ -414,7 +414,7 @@
 }
 
 .contact-heading {
-    padding-top: 15%;
+    padding-top: 10%;
 }
 
 .copyright {
